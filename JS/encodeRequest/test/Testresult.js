@@ -1,0 +1,31 @@
+`
+name=Juanjo&pass=juTeest%24BCNS2021&message=A%24B%25C%40D%23%7CE%2Ff&html=%3Cspan%20class%3D%22text-muted%22%3EI'm%20the%20HTML%3C%2Fspan%3E&
+data={
+    "birdthDate":"29-07-1994",
+    "contact":{
+        "email":"jj4fer%40gmail.com",
+        "phoneNumber":"617858072"
+    }
+}&
+friends=[
+    {
+        "name":"Jos%C3%A9",
+        "data":{
+            "birdthDate":"29-08-1997",
+            "contact":{
+                "email":"joselito%40gmail.com","phoneNumber":"65465154"
+            }
+        }
+    },
+    {
+        "name":"Sergio",
+        "data":{
+            "birdthDate":"17-12-1993",
+            "contact":{
+                "email":"sergi%40gmail.com",
+                "phoneNumber":"987"
+            }
+        }
+    }
+]
+`
